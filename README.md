@@ -39,4 +39,4 @@ This project focuses on analyzing the COVID-19 pandemic using data visualization
 Feel free to Check out my Tableau Dashboard of Covid Analysis.
 
 
-[![Tableau](https://img.shields.io/badge/Tableau-0A66C2?style=for-the-badge&logo=Tableau&logoColor=Black)][(https://public.tableau.com/views/Covide-19inIndiaDashboardAnalysis/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)]
+https://public.tableau.com/app/profile/md.shabbir8732/viz/Covide-19inIndiaDashboardAnalysis/Dashboard1
