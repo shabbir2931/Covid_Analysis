@@ -32,7 +32,8 @@ This project focuses on analyzing the COVID-19 pandemic using data visualization
 
 
 
-<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/2a2156b8-1eb2-49b0-9fda-85da2aabc229" height=400>
+![Screenshot (307)](https://github.com/shabbir2931/Covid_Analysis/assets/143161219/9bd83ec8-d874-4740-a2e5-0ae479b1481c)
+
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
 Feel free to Check out my Tableau Dashboard of Covid Analysis.
